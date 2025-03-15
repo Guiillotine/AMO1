@@ -1,0 +1,8 @@
+/test
+/train
+/Lib
+/Scripts
+/External Libraries
+/.idea
+pyvenv.cfg
+model.pkl
